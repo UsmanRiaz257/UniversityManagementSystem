@@ -41,11 +41,11 @@ Can be extended with file handling, database integration, or a GUI in the future
 
 Project Structure
 UniversityManagementSystem/
-├── include/       # Header files
-├── src/           # Source code
-├── build/         # CMake build folder (ignored in repo)
-├── CMakeLists.txt # CMake configuration
-└── README.md      # Project description
+  ├── include/       # Header files
+  ├── src/           # Source code
+  ├── build/         # CMake build folder (ignored in repo)
+  ├── CMakeLists.txt # CMake configuration
+  └── README.md      # Project description
 
 Notes
 
