@@ -1,0 +1,3 @@
+/home/usman/Documents/tasks/UniversityManagementSystem/build/CMakeFiles/UNIVERSITYMANAGEMENTSYSTEM.dir
+/home/usman/Documents/tasks/UniversityManagementSystem/build/CMakeFiles/edit_cache.dir
+/home/usman/Documents/tasks/UniversityManagementSystem/build/CMakeFiles/rebuild_cache.dir
